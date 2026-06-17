@@ -136,18 +136,6 @@ Incremental Revenue =
 
 ---
 
-# Repository Structure
-
-```text
-AtliQ-Promo-Analysis/
-├── data/                # Raw CSV datasets
-├── notebooks/           # Python EDA notebook
-├── dashboard/           # Power BI .pbix dashboard
-├── screenshots/         # Dashboard screenshots
-└── README.md
-```
-
----
 
 # Dashboard Screenshots
 
